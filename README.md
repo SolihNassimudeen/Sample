@@ -22,3 +22,8 @@ with out creating branch to swith branch we use - git checkout branchname.
 ## Git merge
 
 first we want to check what changes are happened so we use - git diff nameOfthebranch
+then push all changes
+then update it in git web.
+then pull the code by using - git pull
+
+After the merge delete the created sub branches - git branch -d branchName
